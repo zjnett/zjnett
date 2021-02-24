@@ -24,9 +24,9 @@ My name is Zach, and I like to make things. I'm a Computer Engineering student a
 
 ## Projects
 
-Here's some things I'm currently working on, but are not public repositories (yet):
-* An EXT2 Filesystem in C
-* A TA Recruitment Web Application in Flask/SQLAlchemy
+Here's some things I'm currently working on,
+* Miscellaneous Graphical Programming Projects
+* Electrical Engineering Reports & Classes...
 
 ## GitHub Stats
 
