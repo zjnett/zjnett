@@ -25,8 +25,7 @@ My name is Zach, and I like to make things. I'm a Computer Engineering student a
 ## Projects
 
 Here's some things I'm currently working on,
-* Miscellaneous Graphical Programming Projects
-* Electrical Engineering Reports & Classes...
+* Code I can't post here!
 
 ## GitHub Stats
 
