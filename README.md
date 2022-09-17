@@ -10,7 +10,6 @@ My name is Zach, and I like to make things. I'm a Firmware Engineer at HP and a 
 ![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=C&logoColor=white&color=37dbc5)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=37dbc5)
 ![](https://img.shields.io/badge/Code-Assembly-informational?style=flat&logo=chip&logoColor=white&color=37dbc5)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=c-sharp&logoColor=white&color=37dbc5)
 ![](https://img.shields.io/badge/Shell-zsh-informational?style=flat&logo=gnu-bash&logoColor=white&color=37dbc5)
 
 ## GitHub Stats
